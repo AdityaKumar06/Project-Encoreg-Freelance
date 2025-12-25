@@ -1,4 +1,3 @@
-# EncoreG.com - Project README
 
 ## Project Overview
 
