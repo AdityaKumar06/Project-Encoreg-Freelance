@@ -13,6 +13,11 @@ It is a modern, responsive single-page style website built with clean code and s
 
 **Live Demo:** [https://encoreg.com](https://encoreg.com)
 
+## Preview
+
+<img width="1902" height="914" alt="image" src="https://github.com/user-attachments/assets/13a2ed90-3b48-4767-958e-8d66ec8a05f5" />
+
+
 ## Technologies Used
 
 - **HTML5** – Semantic structure and modern markup
