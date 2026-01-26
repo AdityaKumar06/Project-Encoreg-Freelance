@@ -50,9 +50,4 @@ It is a modern, responsive **single-page style website** built with **clean code
 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0614/)  
 
 
-## 🚀 How to Run
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/YourUsername/encoreg.com.git
-
 ⭐ **If you like this game, don’t forget to star the repository!**
